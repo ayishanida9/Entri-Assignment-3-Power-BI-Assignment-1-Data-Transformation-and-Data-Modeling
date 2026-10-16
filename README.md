@@ -1,12 +1,8 @@
 # Power-BI-Assignment-1-Data-Transformation-and-Data-Modeling
-Instructions:-
-Import Data:
-●
-●
-●
+##Instructions:-
+*Import Data:
 Import “List of Orders.csv” into Power BI.
 Open “List of Orders” in Power Query Editor by clicking on ‘Transform’
-.
 Import “Order Details.csv” and “Sales target.csv” into Power Query Editor.
 ●
 ●
