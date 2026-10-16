@@ -29,6 +29,7 @@ divided by "Amount".
 "Profit" column. The conditions are as follows: if the profit is less than 0, the label
 should be "Loss"; if the profit equals 0, the label should be "Break-Even"; and if the
 profit is greater than 0, the label should be "Profit".
+
 Ans:Part 2: Data transformation in Power Query
   1. Keep only the first 500 rows
 1. Select the List of Orders query.
@@ -73,6 +74,7 @@ Name the column Profit Status.
 
 •Merge the "List of Orders" and "Order Details" tables into a new single table named
 "Orders Data" based on the "Order ID" relationship.
+
 Ans:Part 3: Merge the tables
 1.Select List of Orders.
 2.Go to Home → Merge Queries → Merge Queries as New.
